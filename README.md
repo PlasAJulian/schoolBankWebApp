@@ -1,5 +1,5 @@
 # schoolBankWebApp
-Redid a Java bank web application class project. <br><br>
+Redid a Java bank web application class project. Built using NetBean. <br><br>
 This is a bank web application I did back in school. In this assignment a user would be able to login and display their accounts and can deposit or withdraw from any of their accounts. <br>
 
 Things I added. <br>
