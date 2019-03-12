@@ -215,7 +215,7 @@ public class customer {
 		//statement
             Statement stmt = con.createStatement();
             String sql;
-            sql = (sql = "Update Customers set CustPassword = '"+pwd+
+            sql = ("Update Customers set CustPassword = '"+pwd+
                        "', CustFirstName = '"+fName+
                        "', CustLastName = '"+lName+
                        "', CustAddress = '"+state+
